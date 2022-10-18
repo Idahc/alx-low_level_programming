@@ -1,9 +1,11 @@
-#include<stdio.h>														/**
-																 *main-starts here					
-																*/							
+#include<stdio.h>
+/**
+ * main is important
+ * void because no integer
+ * */							
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);	
+	return	(0);
 }
 
