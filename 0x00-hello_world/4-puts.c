@@ -2,6 +2,8 @@
 /**
  * main is important
  * void because no integer
+ * return 0 is for succes
+ *
  * */							
 int main(void)
 {
