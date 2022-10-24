@@ -1,1 +1,1 @@
-Infinite loop
+multiple mains
